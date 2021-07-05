@@ -1,10 +1,14 @@
-# StrataScratch Exercises
+## Exercise: Salaries Differences
 
-## Question 1: Salaries Differences
+## Table of Contents
+- [DataSet]()
+- [Question]()
+- [Solution]()
+- [Result]()
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10308&python=)
 
-**DataSet**
+## DataSet
 
 `db_employee`
 `db_dept`
@@ -54,11 +58,11 @@ id | department
 </body>
 </html>
 
-### Question 
+## Question 
 
 Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments. Output just the difference in salaries.
 
-### Solution
+## Solution
 
 ``` SQL
 SELECT
@@ -72,7 +76,7 @@ SELECT
   WHERE department = 'engineering') AS salary_difference;
 ```
 
-**Result** 
+## Result
 <html><body>
 <!--StartFragment-->
 
