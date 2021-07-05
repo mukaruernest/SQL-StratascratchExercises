@@ -6,9 +6,11 @@ More details about this exercise can be found on [Stratascratch website](https:/
 
 **DataSet**
 
-DataSet shows the first ten rows of the table, to view the full table follow [this link](https://platform.stratascratch.com/coding-question/output-preview)  
+`airbnb_contacts`
 
 **Table Name: airbnb_contacts**
+
+_DataSet shows the first ten rows of the table, to view the full table follow [this link](https://platform.stratascratch.com/coding-question/output-preview)_
 <html><body>
 <!--StartFragment-->
 

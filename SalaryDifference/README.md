@@ -6,9 +6,14 @@ More details about this exercise can be found on [Stratascratch website](https:/
 
 **DataSet**
 
-DataSet shows the first ten rows of the table, to view the full table follow [this link](https://platform.stratascratch.com/coding-question/output-preview)  
+`db_employee`
+`db_dept`
+
+ 
 
 **Table Name: db_employee**
+
+DataSet shows the first ten rows of the table, to view the full table follow [this link](https://platform.stratascratch.com/coding-question/output-preview) 
 
 <html><body>
 <!--StartFragment-->
