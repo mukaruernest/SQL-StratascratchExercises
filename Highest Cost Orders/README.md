@@ -1,6 +1,4 @@
-# StrataScratch Exercises
-
-## Exercise: Highest Cost Orders
+# Exercise: Highest Cost Orders
 
 ## Table of Contents
 
