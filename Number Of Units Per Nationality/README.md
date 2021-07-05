@@ -1,6 +1,5 @@
-# StrataScratch Exercises
 
-## Exercise: Number Of Units Per Nationality
+# Exercise: Number Of Units Per Nationality
 
 ## Table of Contents
  - [DataSet](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#dataset)
