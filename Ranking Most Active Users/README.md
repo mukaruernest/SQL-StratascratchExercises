@@ -1,6 +1,11 @@
-# StrataScratch Exercises
 
 ## Exercise : Ranking Most Active Guests
+
+## Table of Content
+- [DataSet](https://github.com/mukaruernest/StratascratchExercises/tree/master/Ranking%20Most%20Active%20Users#dataset)
+- [Question](https://github.com/mukaruernest/StratascratchExercises/tree/master/Ranking%20Most%20Active%20Users#question)
+- [Solution](https://github.com/mukaruernest/StratascratchExercises/tree/master/Ranking%20Most%20Active%20Users#solution)
+- [Results](https://github.com/mukaruernest/StratascratchExercises/tree/master/Ranking%20Most%20Active%20Users#result)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10159&python=)
 
