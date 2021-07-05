@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[DataSets]()
-[Questions]()
-[Solutions]()
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Cost%20Orders#dataset)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Cost%20Orders#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Cost%20Orders#solution)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=9915&python=)
 
