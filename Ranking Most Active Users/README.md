@@ -4,7 +4,7 @@
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10159&python=)
 
-**DataSet**
+## DataSet
 
 `airbnb_contacts`
 
@@ -31,13 +31,13 @@ b8831610-31f2-4c58-8ada-63b3601ca476 | bdd8a691-31e2-48d8-b526-6a75a4363b89 | 96
 </body>
 </html>
 
-### Question 
+## Question 
 
 Rank guests based on the number of messages they've exchanged with the hosts. Guests with the same number of messages as other guests should have the same rank. Do not skip rankings if the preceding rankings are identical.
 
 Output the rank, guest id, and number of total messages they've sent. Order by the highest number of total messages first.
 
-### Solution
+## Solution
 
 ``` SQL
 SELECT
@@ -47,7 +47,7 @@ Group by id_guest
 Order by sum_n_message DESC
 ```
 
-**Result** 
+## Result 
 <html><body>
 <!--StartFragment-->
 
