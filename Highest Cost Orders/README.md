@@ -2,9 +2,15 @@
 
 ## Exercise: Highest Cost Orders
 
+## Table of Contents
+
+[DataSets]()
+[Questions]()
+[Solutions]()
+
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=9915&python=)
 
-**DataSet**
+## DataSet
 
 `customers`
 `orders`
@@ -73,13 +79,13 @@ id | cust_id | order_date | order_quantity | order_details | order_cost
 </body>
 </html>
 
-### Question 
+## Question 
 
 Find the customer with the highest total order cost within a single day between 2019-02-01 to 2019-05-01. Total order cost is calculated as order_cost*order_quantity. Output their first name, total cost of their items, and the date.
 
 For simplicity, you can assume that every first name in the dataset is unique. Also, the cost of the certain item (e.g. coat) could vary among different purchases (not all coats cost the same).
 
-### Solution
+## Solution
 
 ``` SQL
 SELECT c.first_name, o.order_date, SUM(o.order_cost * o.order_quantity) AS TotalOrderCost
