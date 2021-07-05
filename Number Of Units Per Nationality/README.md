@@ -2,6 +2,12 @@
 
 ## Exercise: Number Of Units Per Nationality
 
+## Table of Contents
+ - [DataSet](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#dataset)
+ - [Question](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#question)
+ - [Solution](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#solution)
+ - [Result](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#result)
+ 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?python=&id=10156)
 
 ## DataSet
@@ -78,7 +84,7 @@ GROUP BY nationality
 ORDER BY NumberOfApartments DESC
 ```
 
-**Result** 
+## Result
 <html><body>
 <!--StartFragment-->
 
