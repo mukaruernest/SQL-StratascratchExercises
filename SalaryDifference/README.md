@@ -1,10 +1,10 @@
 ## Exercise: Salaries Differences
 
 ## Table of Contents
-- [DataSet]()
-- [Question]()
-- [Solution]()
-- [Result]()
+- [DataSet](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#dataset)
+- [Question](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#question)
+- [Solution](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#solution)
+- [Result](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#result)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10308&python=)
 
