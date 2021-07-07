@@ -1,10 +1,15 @@
-# StrataScratch Exercises
 
-## Exercise: Number Of Units Per Nationality
+# Exercise: Number Of Units Per Nationality
 
+## Table of Contents
+ - [DataSet](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#dataset)
+ - [Question](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#question)
+ - [Solution](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#solution)
+ - [Result](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20Of%20Units%20Per%20Nationality#result)
+ 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?python=&id=10156)
 
-**DataSet**
+## DataSet
 
 `airbnb_hosts`
 `airbnb_units`
@@ -59,7 +64,7 @@ host_id | unit_id | unit_type | n_beds | n_bedrooms | country | city
 </body>
 </html>
 
-### Question 
+## Question 
 
 Find the number of apartments per nationality that are owned by people under 30 years old.
 
@@ -67,7 +72,7 @@ Output the nationality along with the number of apartments.
 
 Sort records by the apartments count in descending order.
 
-### Solution
+## Solution
 
 ``` SQL
 SELECT hs.nationality, count(un.unit_id) AS NumberOfApartments
@@ -78,7 +83,7 @@ GROUP BY nationality
 ORDER BY NumberOfApartments DESC
 ```
 
-**Result** 
+## Result
 <html><body>
 <!--StartFragment-->
 
