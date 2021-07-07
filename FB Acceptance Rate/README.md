@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [DataSets]()
-- [Questions]()
-- [Solutions]()
-- [Conclusions]()
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#dataset)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#solution)
+- [Conclusions](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#conclusion)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10285&python=)
 
