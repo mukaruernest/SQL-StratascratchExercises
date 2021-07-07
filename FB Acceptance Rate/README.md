@@ -68,6 +68,8 @@ GROUP BY s.date
 ORDER BY s.date ASC
 ```
 
+**Result**
+
 <html><body>
 <!--StartFragment-->
 
