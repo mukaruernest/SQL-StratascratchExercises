@@ -32,15 +32,6 @@ id | first_name | last_name | salary | department_id
 5 | Sherry | Golden | 44101 | 1002
 6 | Natasha | Swanson | 79632 | 1005
 6 | Natasha | Swanson | 90000 | 1005
-7 | Diane | Gordon | 74591 | 1002
-8 | Mercedes | Rodriguez | 61048 | 1005
-9 | Christy | Mitchell | 137236 | 1001
-9 | Christy | Mitchell | 140000 | 1001
-9 | Christy | Mitchell | 150000 | 1001
-10 | Sean | Crawford | 182065 | 1006
-10 | Sean | Crawford | 190000 | 1006
-11 | Kevin | Townsend | 166861 | 1002
-12 | Joshua | Johnson | 123082 | 1004
 
 <!--EndFragment-->
 </body>
