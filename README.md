@@ -12,3 +12,4 @@ Stratascratch is  a platform where data scientists seek to improve their coding 
 - [Highest Cost Orders](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Cost%20Orders)
 - [FB Acceptanece Rate](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate)
 - [Finding Updated Records](https://github.com/mukaruernest/StratascratchExercises/tree/master/Finding%20Updated%20Records)
+- [Bikes Last Used](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used)
