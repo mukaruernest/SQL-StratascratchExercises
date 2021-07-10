@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#dataset)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#solution)
-- [Conclusion](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate#conclusion)
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#dataset)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#solution)
+
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10176&python=)
 
