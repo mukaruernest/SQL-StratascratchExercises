@@ -13,3 +13,4 @@ Stratascratch is  a platform where data scientists seek to improve their coding 
 - [FB Acceptanece Rate](https://github.com/mukaruernest/StratascratchExercises/tree/master/FB%20Acceptance%20Rate)
 - [Finding Updated Records](https://github.com/mukaruernest/StratascratchExercises/tree/master/Finding%20Updated%20Records)
 - [Bikes Last Used](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used)
+- [Income by Title and Gender](https://github.com/mukaruernest/StratascratchExercises/tree/master/Income%20by%20Title%20and%20Gender)
