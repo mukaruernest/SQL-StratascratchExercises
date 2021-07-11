@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#dataset)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#solution)
-- [Approach]()
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20of%20Streets%20Per%20Zip%20Code#dataset)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20of%20Streets%20Per%20Zip%20Code#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20of%20Streets%20Per%20Zip%20Code#solution)
+- [Approach](https://github.com/mukaruernest/StratascratchExercises/tree/master/Number%20of%20Streets%20Per%20Zip%20Code#approach)
 
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10182)
