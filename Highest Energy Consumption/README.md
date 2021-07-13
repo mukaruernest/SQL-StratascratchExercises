@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#datasets)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#solution)
-- [Approach](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#approach)
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Energy%20Consumption#datasets)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Energy%20Consumption#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Energy%20Consumption#solution)
+- [Approach](https://github.com/mukaruernest/StratascratchExercises/tree/master/Highest%20Energy%20Consumption#approach)
 
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?python=&id=10064)
