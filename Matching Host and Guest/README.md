@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Income%20by%20Title%20and%20Gender#datasets)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Income%20by%20Title%20and%20Gender#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Income%20by%20Title%20and%20Gender#solution)
-- [Approach](https://github.com/mukaruernest/StratascratchExercises/tree/master/Income%20by%20Title%20and%20Gender#approach)
+- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#datasets)
+- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#question)
+- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#solution)
+- [Approach](https://github.com/mukaruernest/StratascratchExercises/tree/master/Matching%20Host%20and%20Guest#approach)
 
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10078&python=)
