@@ -121,10 +121,10 @@ date | maxconsumption
 
 ## Approach
 
- Use UNION ALLs to combine all data in a list so that you don't lose any data
+- Used UNION ALLs to combine all data in a list so that I don't lose any data
 
-- Use the SUM() function to find the total energy consumption by date
+- Used the SUM() function to find the total energy consumption by date
 
-- Find the max total energy consumption independent of date
+- Found the max total energy consumption independent of date
 
-- Using the max total energy and the sum of energy by date, JOIN the two tables so that you get the date of the max total energy
+- Using the max total energy and the sum of energy by date, joined the two tables to get the date of the max total energy
