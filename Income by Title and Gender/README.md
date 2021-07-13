@@ -38,7 +38,7 @@ id | first_name | last_name | age | sex | employee_title | department | salary |
 </body>
 </html>
 
-**Table 1: sf_bonus**
+**Table 2: sf_bonus**
 
 <html><body>
 <!--StartFragment-->
