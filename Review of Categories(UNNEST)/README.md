@@ -1,10 +1,10 @@
 ## Exercise: Reviews of Categories
 
 ## Table of Contents
-- [DataSet](https://platform.stratascratch.com/coding-question/output-preview)
-- [Question](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#question)
-- [Solution](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#solution)
-- [Result](https://github.com/mukaruernest/StratascratchExercises/tree/master/SalaryDifference#result)
+- [DataSet](https://github.com/mukaruernest/SQL-StratascratchExercises/tree/master/Review%20of%20Categories(UNNEST)#dataset)
+- [Question](https://github.com/mukaruernest/SQL-StratascratchExercises/tree/master/Review%20of%20Categories(UNNEST)#question)
+- [Solution](https://github.com/mukaruernest/SQL-StratascratchExercises/tree/master/Review%20of%20Categories(UNNEST)#solution)
+- [Result](https://github.com/mukaruernest/SQL-StratascratchExercises/tree/master/Review%20of%20Categories(UNNEST)#result)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding/10049-reviews-of-categories?python=)
 
